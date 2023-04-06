@@ -52,3 +52,4 @@ Trello: https://trello.com/invite/accept-team
 
 ## Mockups
 
+Figma: https://www.figma.com/file/BPTirQvmXJEm4UcZc11lB4/TuInveste?node-id=0-1&t=NixKw0q2wwNZqwt5-0
