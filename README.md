@@ -53,3 +53,23 @@ Trello: https://trello.com/invite/accept-team
 ## Mockups
 
 Figma: https://www.figma.com/file/BPTirQvmXJEm4UcZc11lB4/TuInveste?node-id=0-1&t=NixKw0q2wwNZqwt5-0
+
+
+## Concordância do cliente formalizada
+
+Caro analista,
+
+Em nome da Contábeis Católica, gostaria de expressar nossa concordância com o escopo do projeto que nos foi apresentado. Após revisar cuidadosamente o documento, estamos satisfeitos com as etapas delineadas e acreditamos que o escopo proposto atende aos nossos objetivos e requisitos.
+
+Por meio desta carta, gostaríamos de confirmar que autorizamos sua empresa a prosseguir com o trabalho descrito no escopo do projeto. Acreditamos que sua equipe é capaz de fornecer resultados de alta qualidade dentro dos prazos acordados e estamos ansiosos para ver os resultados finais.
+
+Entendemos que este projeto envolverá um esforço conjunto e estaremos disponíveis para trabalhar em estreita colaboração com sua equipe para garantir que o projeto seja concluído com sucesso. Agradecemos antecipadamente o compromisso da sua empresa em entregar este projeto de acordo com as especificações acordadas.
+
+Cordialmente,
+
+Equipe Contábeis Católica
+
+
+
+
+
